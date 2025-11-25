@@ -56,3 +56,10 @@ All other AAD Graph/MS Graph related issues are **CLOSED**:
 - #13127 - KeyVault token ignored (closed Nov 2020)
 - #12840 - Get-AzRoleAssignment SPN error (closed Sep 2020)
 - #3215 - New-AzureRmADApplication SPN error (open since Nov 2016, but inactive)
+
+## Usage of AAD Graph
+
+Usage has been gradually reducing:
+
+<img width="1266" height="710" alt="Screenshot 2025-11-25 at 6 25 24 pm" src="https://github.com/user-attachments/assets/c4ce4fc8-3f22-4608-8c20-114b25cee187" />
+
